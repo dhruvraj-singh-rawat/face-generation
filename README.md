@@ -16,9 +16,7 @@ Then just run the code by typing the following lines at the File Directory
 
 ## Authors
 
-* **Dhruvraj Singh Rawat** - *Initial work* - [PurpleBooth](https://www.linkedin.com/in/dhruvrajrawat/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Dhruvraj Singh Rawat** - *Initial work* - [LinkedIn](https://www.linkedin.com/in/dhruvrajrawat/)
 
 ## License
 
